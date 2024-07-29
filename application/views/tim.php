@@ -28,7 +28,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -51,7 +51,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -74,7 +74,7 @@
                             </h4>
                             <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                             <p>
-                                Di isi dengan tugas utama!
+                                Disini diisi dengan tugas!
                             </p>
                             </figcaption>
                             <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -97,7 +97,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -120,7 +120,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -143,7 +143,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -166,7 +166,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -189,7 +189,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -212,7 +212,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                         <p>
-                            Di isi dengan tugas utama!
+                            Disini diisi dengan tugas!
                         </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
@@ -235,7 +235,7 @@
                         </h4>
                         <figcaption data-swiper-parallax="80" data-swiper-parallax-duration="1250">
                             <p>
-                                Di isi dengan tugas utama!
+                                Disini diisi dengan tugas!
                             </p>
                         </figcaption>
                         <a href="javascript:void(0);" title="Continue Reading" data-swiper-parallax="80" data-swiper-parallax-opacity="0.2" data-swiper-parallax-duration="1750">
